@@ -31,5 +31,5 @@ abdurrahmanroky.bd@gmail.com
 ```
 📂 GitHub: 
 ```bash
-https://github.com/XeoniPi
+www.linkedin.com/in/abdur-rahman-roky
 ```
